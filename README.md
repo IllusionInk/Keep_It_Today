@@ -27,6 +27,7 @@ The idea was to depict a version of these traditional craft forms, fit with the 
 ---
 - The live sound visualisation part was done in Processing using its inbuilt sound libraries. 
 - The art glyphs were made in Illustrator, from the existing Ajrakh print motifs.
+
 ![sketch](https://github.com/IllusionInk/Keep_It_Today/blob/master/Assets/Keep_It_today-02.jpg)
 
 #### Algorithm
