@@ -1,6 +1,6 @@
 # Keep it Today
 
-> As part of a 2 week Open Elective Course, our objective was to reimagine and contemporise traditional craft-forms of Gujarat to the current times.
+> As part of a 2 week Open Elective Course at college ( National Insitute of Design, Bangalore), our objective was to reimagine and contemporise traditional craft-forms of Gujarat to the current times.
 
 >The idea was to depict the traditional craft forms in current times. How could traditional art forms be practised today, with the aid of relevant tool and technologies ? 
 
