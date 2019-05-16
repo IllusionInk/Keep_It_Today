@@ -7,12 +7,14 @@
 
 ### Background
 ---
-The region of Kutch its home to some of the most beautiful art forms of Gujarat. **Lippan** artwork , done using mirrors and clay is an intricate art-form. It is usually done for the decoration of walls in village homes.
-**Ajrakh** on the other hand is a  traditional block and resist printing technique done using vegetable dyes on cloth. While, **Ajrakh** comes from ***‘Azrakʼ- the Arabic word for Indigo***, a naturally occurring blue paint; the popular story amongst painters is that *****'Ajrakh'*** means ‘keep it todayʼ**.
+The region of Kutch its home to some of the most beautiful art forms of Gujarat. 
+- **Lippan** artwork , done using mirrors and clay is an intricate art-form. It is usually done for the decoration of walls in village homes.
+- **Ajrakh** on the other hand is a  traditional block and resist printing technique done using vegetable dyes on cloth. While, **Ajrakh** comes from ***‘Azrakʼ- the Arabic word for Indigo***, a naturally occurring blue paint; the popular story amongst painters is that *****'Ajrakh'*** means ‘keep it todayʼ**.
+
 ![sketch](https://github.com/IllusionInk/Keep_It_Today/blob/master/Assets/Keep_It_today-01.jpg)
 
 
-#### Idea
+### Idea
 ---
 **Ajrakh** (Textile Block Printing ) and **Lippan** (Glass-Mudwork) two of the oldest art forms practised in Gujarat.
 
@@ -23,10 +25,11 @@ The idea was to depict a version of these traditional craft forms, fit with the 
 
 ### Process
 ---
-The live sound visualisation part was done in Processing using its inbuilt sound libraries. The art glyphs were made in Illustrator, from the existing Ajrakh print motifs.
+- The live sound visualisation part was done in Processing using its inbuilt sound libraries. 
+- The art glyphs were made in Illustrator, from the existing Ajrakh print motifs.
 ![sketch](https://github.com/IllusionInk/Keep_It_Today/blob/master/Assets/Keep_It_today-02.jpg)
 
-##### Algorithm
+#### Algorithm
 - Import sound library in the code sketch ( is an inbuilt library).
 - Import the glyphs based on ajrakh motifs in the sketch.
 - Setup the variables for calculating input sound amplitude
@@ -41,13 +44,13 @@ The live sound visualisation part was done in Processing using its inbuilt sound
 ---
 ![sketch](https://github.com/IllusionInk/Keep_It_Today/blob/master/Assets/Keep_It_today-03.jpg)
 
-##### Test Video
+#### Test Video
 [Render video with test music](https://vimeo.com/313569164)
 
 ### To Do
 ---
-[ ] Mapping sound frequencies - to show diversity / nature of incoming sounds
-[ ] Generate the pattern generatively using rose curves.
+- [ ] Mapping sound frequencies - to show diversity / nature of incoming sounds
+- [ ] Generate the pattern generatively using rose curves.
 
 ### References
 ---
